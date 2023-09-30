@@ -1,0 +1,287 @@
+@media(width >=320px) {
+    .he {
+        background-color: orange;
+        position: absolute;
+        top: 0%;
+        left: 15px;
+        width: 95%;
+        height: 10%;
+    }
+
+
+    .orange {
+        background-color: orange;
+        position: absolute;
+        top: 11%;
+        left: 15px;
+        width: 95%;
+        height: 10%;
+
+    }
+
+    .green {
+        background-color: greenyellow;
+        position: absolute;
+        top: 25%;
+        left: 15px;
+        width: 95%;
+        height: 17%;
+
+    }
+
+    .blue-1 {
+        background-color: blue;
+        position: absolute;
+        top: 44%;
+        left: 15px;
+        width: 95%;
+        height: 16%;
+    }
+
+    .blue-2 {
+        background-color: blue;
+        position: absolute;
+        top: 62%;
+        left: 15px;
+        width: 95%;
+        height: 16%;
+    }
+
+    .blue-3 {
+        background-color: blue;
+        position: absolute;
+        top: 79%;
+        left: 15px;
+        width: 95%;
+        height: 14%;
+    }
+
+    .box1 {
+        background-color: grey;
+        position: absolute;
+        left: 15px;
+        width: 25%;
+        height: 5%;
+        top: 94%;
+
+    }
+
+    .box2 {
+        background-color: grey;
+        position: absolute;
+        left: 115px;
+        width: 25%;
+        height: 5%;
+        top: 94%;
+
+    }
+
+    .box3 {
+        background-color: grey;
+        position: absolute;
+        left: 215px;
+        width: 25%;
+        height: 5%;
+        top: 94%;
+
+    }
+
+    .box4 {
+        background-color: grey;
+        position: absolute;
+        left: 315px;
+        width: 25%;
+        height: 5%;
+        top: 94%;
+
+
+    }
+}
+
+@media(width >=768px) {
+    .he {
+        background-color: orange;
+        position: absolute;
+        top: 0%;
+        left: 15px;
+        width: 95%;
+        height: 10%;
+    }
+
+
+    .orange {
+        background-color: orange;
+        position: absolute;
+        top: 11%;
+        left: 15px;
+        width: 95%;
+        height: 10%;
+
+    }
+
+    .green {
+        background-color: greenyellow;
+        position: absolute;
+        top: 23%;
+        left: 15px;
+        width: 95%;
+        height: 17%;
+    }
+
+    .blue-1 {
+        background-color: blue;
+        position: absolute;
+        top: 44%;
+        left: 15px;
+        width: 95%;
+        height: 10%;
+    }
+
+    .blue-2 {
+        background-color: blue;
+        position: absolute;
+        top: 55%;
+        left: 15px;
+        width: 95%;
+        height: 10%;
+    }
+
+    .blue-3 {
+        background-color: blue;
+        position: absolute;
+        top: 66%;
+        left: 15px;
+        width: 95%;
+        height: 10%;
+    }
+
+    .box1 {
+        background-color: grey;
+        position: absolute;
+        left: 15px;
+        width: 42%;
+        height: 8%;
+        top: 78%;
+    }
+
+    .box2 {
+        background-color: grey;
+        position: absolute;
+        left: 407px;
+        width: 45%;
+        height: 8%;
+        top: 78%;
+    }
+
+    .box3 {
+        background-color: grey;
+        position: absolute;
+        left: 15px;
+        width: 42%;
+        height: 8%;
+        top: 87%;
+    }
+
+    .box4 {
+        background-color: grey;
+        position: absolute;
+        left: 407px;
+        width: 45%;
+        height: 8%;
+        top: 87%;
+    }
+}
+
+@media(width >=1024px) {
+    .he {
+        background-color: orange;
+        position: absolute;
+        top: 0%;
+        left: 15px;
+        width: 45%;
+        height: 10%;
+    }
+
+
+    .orange {
+        background-color: orange;
+        position: absolute;
+        top: 0%;
+        left: 723px;
+        width: 45%;
+        height: 10%;
+
+    }
+
+    .green {
+        background-color: greenyellow;
+        position: absolute;
+        top: 13%;
+        left: 15px;
+        width: 93%;
+        height: 33%;
+    }
+
+    .blue-1 {
+        background-color: blue;
+        position: absolute;
+        top: 48%;
+        left: 15px;
+        width: 25%;
+        height: 25%;
+    }
+
+    .blue-2 {
+        background-color: blue;
+        position: absolute;
+        top: 48%;
+        left: 452px;
+        width: 25%;
+        height: 25%;
+    }
+
+    .blue-3 {
+        background-color: blue;
+        position: absolute;
+        top: 48%;
+        left: 895px;
+        width: 25%;
+        height: 25%;
+    }
+
+    .box1 {
+        background-color: grey;
+        position: absolute;
+        left: 15px;
+        width: 22%;
+        height: 15%;
+        top: 74%;
+    }
+
+    .box2 {
+        background-color: grey;
+        position: absolute;
+        left: 381px;
+        width: 22%;
+        height: 15%;
+        top: 74%;
+    }
+
+    .box3 {
+        background-color: grey;
+        position: absolute;
+        left: 746px;
+        width: 22%;
+        height: 15%;
+        top: 74%;
+    }
+
+    .box4 {
+        background-color: grey;
+        position: absolute;
+        left: 1110px;
+        width: 22%;
+        height: 15%;
+        top: 74%;
+    }
+}
