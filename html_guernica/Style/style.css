@@ -1,0 +1,14 @@
+
+.contenedor {
+    width: 100%;
+}
+
+p {
+    float: left;
+    width: 50%; 
+}
+
+.imagen-derecha {
+    float: right;
+    width: 50%; 
+}
