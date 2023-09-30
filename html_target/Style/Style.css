@@ -1,0 +1,76 @@
+
+.diana{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.circulo-negro{
+    width: 160px;
+    height: 160px;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 28px;
+    left: 27px;
+    background-color: red;
+}
+
+
+.circulo-blanco {
+    width: 135px;
+    height: 135px;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    background-color: white;
+}
+    
+.circulo-rojo{
+    width: 110px;
+    height: 110px;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: red;
+    
+}
+.circulo-blanco-pequeno{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 65px;
+    left: 65px;
+    background-color: white;
+}
+.circulo-rojo-pequeno{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    background-color: red;
+    
+}
+.cruz {
+    width: 2px;
+    height: 209px;
+    background-color: black;
+    position: absolute;
+    top: 107px;
+    left: 107px;
+    transform: translate(-50%, -50%);
+}
+
+.cruz-horizontal {
+    width: 209px;
+    height: 2px;
+}
