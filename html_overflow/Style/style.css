@@ -1,0 +1,14 @@
+.hid {
+    background-color: green;
+    overflow: hidden;
+    width: 200px;
+    height: 500px;
+}
+
+.au {
+    background-color: green;
+    overflow: auto;
+    width: 200px;
+    height: 500px;
+
+}
