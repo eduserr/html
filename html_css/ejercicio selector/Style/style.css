@@ -1,0 +1,60 @@
+/*main{background-color: purple;}*/
+p {
+    color: green;
+}
+
+#title-1 {
+    color: white;
+}
+
+.bg-yellow {
+    background-color: chocolate;
+}
+
+[id] {
+    background-color: crimson;
+}
+
+[id="title-1"] {
+    background-color: green;
+}
+
+[href="https://www.yahoo.com"] {
+    color: grey;
+}
+
+[class^="title"] {
+    background-color: pink
+}
+
+;
+
+[href$=".com"] {
+    background-color: darkorange;
+}
+
+[href*="127"] {
+    background-color: cyan;
+}
+
+[href^="http"] {
+    background-color: darkblue;
+}
+
+a,
+p,
+h1 {
+    background-color: magenta;
+}
+
+main>p {
+    color: blue;
+}
+
+h1~h2 {
+    color: white;
+}
+
+body>main {
+    background-color: red;
+}
