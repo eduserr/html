@@ -1,0 +1,15 @@
+.square {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: thick dotted greenyellow;
+    
+  }
+.square:hover {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border:  medium dotted black;
+    
+  }
+  
